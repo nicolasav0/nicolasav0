@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nicolasav0/nicolasav0/main/skills.svg" width="100%" alt="Sleek Stack">
+<img src="https://raw.githubusercontent.com/nicolasav0/nicolasav0/main/skills.svg?v=20260831" width="100%" alt="Sleek Stack">
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nicolasav0/nicolasav0/main/footer.svg" width="100%" alt="Sleek Wave">
+<img src="https://raw.githubusercontent.com/nicolasav0/nicolasav0/main/footer.svg?v=20260831" width="100%" alt="Sleek Wave">
